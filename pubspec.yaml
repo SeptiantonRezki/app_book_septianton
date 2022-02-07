@@ -40,6 +40,12 @@ dependencies:
   sqflite: ^2.0.0+4
   socket_io_client: ^1.0.1
 
+  # bloc
+  bloc: ^8.0.1
+  flutter_bloc: ^8.0.0
+  equatable: ^2.0.3
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

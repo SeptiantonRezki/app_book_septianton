@@ -6,7 +6,8 @@ import 'package:http/http.dart' as http;
 import 'package:app_book_septianton/models/book.dart';
 
 // const _url = "http://192.168.137.1/api/v1";
-const _url = "http://192.168.56.1:5021/api/v1";
+const _url = "http://192.168.56.1:55521/api/v1";
+// const _url = "http://208.87.132.73:55521//api/v1";
 // const _url = "http://localhost:5021/api/v1";
 
 Future<Book> getBook({required id}) async {
